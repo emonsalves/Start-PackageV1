@@ -1,8 +1,15 @@
 # Start Proyect
-New base proyect Start
+New Base Proyect Start<br>
+<br>
+Basic Config :<br>
+- Tailwind <br>
+- Heroicons <br>
+- React Router Dom <br>
+- Context <br>
+- Navbar <br>
+- Endbar <br>
 
 <br/>
-
 
 ## Links
 Netlify Pages: 
